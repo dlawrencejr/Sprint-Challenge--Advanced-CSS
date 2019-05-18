@@ -286,10 +286,6 @@ footer {
     padding: 10px;
     margin-top: 10px;
   }
-  .home .walk .home .walk .walk-img {
-    width: 100%;
-    margin-left: 4%;
-  }
 }
 .home .walk .walk-text {
   width: 50%;
@@ -340,6 +336,7 @@ footer {
     border-radius: 10px;
     color: #F6F7F8;
     margin: 0;
+    border-radius: 5px;
   }
   .home .walk .walk-text .btn:hover {
     background-color: #F6F7F8;
